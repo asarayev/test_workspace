@@ -1,0 +1,7 @@
+editables:
+    test_project/0.1@asarayev/testing:
+        path: test_project
+workspace_generator: cmake
+layout: layout.ini
+root: 
+  - test_project/0.1@asarayev/testing
